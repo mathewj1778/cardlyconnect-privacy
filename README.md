@@ -19,14 +19,13 @@ How Information Is Used:
 * To send digital cards to recipients.
 * To provide and improve app functionality.
 
-Data Storage:
-User account information and card history may be stored locally on the user's device. Cardly Connect does not sell user information to third parties.
+Data Storage: User account information, including login credentials and card history are stored locally on the user's device to support account functionality and saved cards.
 
 Third-Party Services:
 Cardly Connect uses third-party email delivery services to transmit digital cards to recipients.
 
 Contact:
 For questions regarding this Privacy Policy, contact: mathewj1778@gmail.com
-
+Users may request support or privacy-related inquiries by contacting the email address listed below.
 Changes:
 This Privacy Policy may be updated periodically. Continued use of the application constitutes acceptance of any updates.
