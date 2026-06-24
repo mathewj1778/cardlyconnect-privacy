@@ -26,7 +26,7 @@ Third-Party Services:
 Cardly Connect uses third-party email delivery services to transmit digital cards to recipients.
 
 Contact:
-For questions regarding this Privacy Policy, contact: [your support email]
+For questions regarding this Privacy Policy, contact: mathewj1778@gmail.com
 
 Changes:
 This Privacy Policy may be updated periodically. Continued use of the application constitutes acceptance of any updates.
