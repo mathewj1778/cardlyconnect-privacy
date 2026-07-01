@@ -19,7 +19,7 @@ How Information Is Used:
 * To send digital cards to recipients.
 * To provide and improve app functionality.
 
-Data Storage: User account information, including login credentials and card history are stored locally on the user's device to support account functionality and saved cards.
+Data Storage: User account information, including login credentials and card history, is stored locally on the user's device to support account functionality and saved cards. Accounts can be deleted permanently.  
 
 Third-Party Services:
 Cardly Connect uses third-party email delivery services to transmit digital cards to recipients.
