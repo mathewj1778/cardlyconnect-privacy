@@ -24,6 +24,8 @@ Data Storage: User account information, including login credentials and card his
 Third-Party Services:
 Cardly Connect uses third-party email delivery services to transmit digital cards to recipients.
 
+Accounts can be deleted permanently 
+
 Contact:
 For questions regarding this Privacy Policy, contact: mathewj1778@gmail.com
 Users may request support or privacy-related inquiries by contacting the email address listed below.
