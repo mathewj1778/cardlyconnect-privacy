@@ -26,6 +26,8 @@ Cardly Connect uses third-party email delivery services to transmit digital card
 
 Accounts can be deleted permanently 
 
+Cardly Connect maintains aggregate usage statistics, such as the total number of cards sent, to help improve the app and understand overall usage. These statistics do not identify individual users.
+
 Contact:
 For questions regarding this Privacy Policy, contact: mathewj1778@gmail.com
 Users may request support or privacy-related inquiries by contacting the email address listed below.
